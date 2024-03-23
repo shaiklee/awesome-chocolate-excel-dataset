@@ -5,21 +5,30 @@ This project dives into analyzing data from a chocolate company's employee recor
 Data Cleanup:
 
 Ensured data consistency by formatting tables.
+
+
 Ran summary analyses for an initial understanding.
+
 Removed duplicates and merged data from different sources for a richer analysis.
+
 Used Power Query for smooth data processing.
 
 Business Questions:
 
 Conducted quick analyses to grasp the dataset's essence.
+
 Delved deeper to find significant details.
+
 Compared male and female employees to spot gender-related trends.
+
 Calculated annual bonuses for employees.
 
 Charts and Visualizations:
 
 Visualized salary distribution to understand employee pay spread.
+
 Explored the relationship between salary and employee ratings.
+
 Tracked the company's growth over time.
 Evaluated performance across different countries.
 
